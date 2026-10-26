@@ -1,0 +1,622 @@
+{
+"nav_catalog": {
+"ru": "Каталог",
+"uz": "Katalog",
+"en": "Catalog"
+},
+"nav_installment": {
+"ru": "Рассрочка",
+"uz": "Muddatli toʻlov",
+"en": "Installments"
+},
+"nav_about": {
+"ru": "О компании",
+"uz": "Biz haqimizda",
+"en": "About us"
+},
+"nav_contacts": {
+"ru": "Контакты",
+"uz": "Aloqa",
+"en": "Contacts"
+},
+"hours": {
+"ru": "Пн–Пт, 9:00–18:00",
+"uz": "Du–Ju, 9:00–18:00",
+"en": "Mon–Fri, 9:00–18:00"
+},
+"hours_days": {
+"ru": "Пн–Пт",
+"uz": "Du–Ju",
+"en": "Mon–Fri"
+},
+"hp": {
+"ru": "л.с.",
+"uz": "ot kuchi",
+"en": "hp"
+},
+"all": {
+"ru": "Все",
+"uz": "Barchasi",
+"en": "All"
+},
+"brand": {
+"ru": "Марка",
+"uz": "Marka",
+"en": "Brand"
+},
+"class": {
+"ru": "Класс",
+"uz": "Sinf",
+"en": "Class"
+},
+"drive": {
+"ru": "Привод",
+"uz": "Yuritma",
+"en": "Drive"
+},
+"power": {
+"ru": "Мощность",
+"uz": "Quvvat",
+"en": "Power"
+},
+"power_hp": {
+"ru": "Мощность, л.с.",
+"uz": "Quvvat, ot kuchi",
+"en": "Power, hp"
+},
+"price_usd": {
+"ru": "Цена, $",
+"uz": "Narx, $",
+"en": "Price, $"
+},
+"from": {
+"ru": "от",
+"uz": "dan",
+"en": "from"
+},
+"to": {
+"ru": "до",
+"uz": "gacha",
+"en": "to"
+},
+"lead_ok": {
+"ru": "Спасибо! Заявка принята, мы свяжемся с вами в рабочее время.",
+"uz": "Rahmat! Arizangiz qabul qilindi, ish vaqtida siz bilan bogʻlanamiz.",
+"en": "Thank you! Your request has been received. We will contact you during business hours."
+},
+"name": {
+"ru": "Имя",
+"uz": "Ism",
+"en": "Name"
+},
+"phone": {
+"ru": "Телефон",
+"uz": "Telefon",
+"en": "Phone"
+},
+"comment": {
+"ru": "Комментарий",
+"uz": "Izoh",
+"en": "Comment"
+},
+"send": {
+"ru": "Отправить заявку",
+"uz": "Arizani yuborish",
+"en": "Send request"
+},
+"home_title": {
+"ru": "Тракторы в рассрочку",
+"uz": "Traktorlar muddatli toʻlovga",
+"en": "Tractors on installment"
+},
+"home_desc": {
+"ru": "Chimgan — продажа тракторов в Узбекистане: каталог техники, рассрочка до 6 месяцев, гарантия и сервис.",
+"uz": "Chimgan — Oʻzbekistonda traktorlar savdosi: texnika katalogi, 6 oygacha muddatli toʻlov, kafolat va servis.",
+"en": "Chimgan — tractor sales in Uzbekistan: equipment catalog, installments up to 6 months, warranty and service."
+},
+"hero_h1": {
+"ru": "Тракторы в рассрочку до 6 месяцев",
+"uz": "Traktorlar 6 oygacha muddatli toʻlovga",
+"en": "Tractors on installment for up to 6 months"
+},
+"hero_p": {
+"ru": "Подберём технику под ваше хозяйство, посчитаем платёж и оформим покупку.",
+"uz": "Xoʻjaligingizga mos texnikani tanlab beramiz, toʻlovni hisoblab, xaridni rasmiylashtiramiz.",
+"en": "We will pick equipment for your farm, calculate your payment and handle the purchase."
+},
+"calc_btn": {
+"ru": "Рассчитать платёж",
+"uz": "Toʻlovni hisoblash",
+"en": "Calculate payment"
+},
+"models_in_catalog": {
+"ru": "моделей в каталоге",
+"uz": "ta model katalogda",
+"en": "models in the catalog"
+},
+"from_pct": {
+"ru": "от {0}%",
+"uz": "{0}% dan",
+"en": "from {0}%"
+},
+"down_label": {
+"ru": "первый взнос",
+"uz": "boshlangʻich toʻlov",
+"en": "down payment"
+},
+"months_short": {
+"ru": "1–{0} мес.",
+"uz": "1–{0} oy",
+"en": "1–{0} mo."
+},
+"term_label": {
+"ru": "срок рассрочки",
+"uz": "muddatli toʻlov muddati",
+"en": "installment term"
+},
+"popular": {
+"ru": "Популярные модели",
+"uz": "Ommabop modellar",
+"en": "Popular models"
+},
+"adv1_h": {
+"ru": "Понятная рассрочка",
+"uz": "Tushunarli muddatli toʻlov",
+"en": "Clear installment terms"
+},
+"adv1_p": {
+"ru": "Первый взнос от {0}%, срок от 1 до {1} месяцев. Платёж считаете сами в калькуляторе.",
+"uz": "Boshlangʻich toʻlov {0}% dan, muddat 1 oydan {1} oygacha. Toʻlovni kalkulyatorda oʻzingiz hisoblaysiz.",
+"en": "Down payment from {0}%, term from 1 to {1} months. You calculate the payment yourself in the calculator."
+},
+"adv2_h": {
+"ru": "Склад",
+"uz": "Ombor",
+"en": "Warehouse"
+},
+"adv2_p": {
+"ru": "Работаем со своего склада. Актуальное наличие уточнит менеджер.",
+"uz": "Oʻz omborimizdan sotamiz. Joriy mavjudligini menejer aniqlashtiradi.",
+"en": "We sell from our own warehouse. A manager will confirm current availability."
+},
+"adv3_h": {
+"ru": "Гарантия и сервис",
+"uz": "Kafolat va servis",
+"en": "Warranty and service"
+},
+"adv3_p": {
+"ru": "Гарантийное и сервисное обслуживание проданной техники.",
+"uz": "Sotilgan texnikaga kafolat va servis xizmati koʻrsatiladi.",
+"en": "Warranty and service support for the equipment we sell."
+},
+"adv4_h": {
+"ru": "Помощь с выбором",
+"uz": "Tanlashda yordam",
+"en": "Help with choosing"
+},
+"adv4_p": {
+"ru": "Подскажем модель и навесное оборудование под задачи хозяйства.",
+"uz": "Xoʻjalik vazifalariga mos model va osma uskunalarni tavsiya qilamiz.",
+"en": "We will recommend a model and attachments for your farm’s tasks."
+},
+"band_h": {
+"ru": "Платёж за минуту",
+"uz": "Toʻlov — bir daqiqada",
+"en": "Your payment in a minute"
+},
+"band_p": {
+"ru": "Выберите модель, первый взнос и срок. Калькулятор покажет платёж, переплату и итоговую сумму.",
+"uz": "Model, boshlangʻich toʻlov va muddatni tanlang. Kalkulyator oylik toʻlov, ortiqcha toʻlov va yakuniy summani koʻrsatadi.",
+"en": "Choose a model, down payment and term. The calculator shows the monthly payment, overpayment and total amount."
+},
+"reviews": {
+"ru": "Отзывы",
+"uz": "Mijozlar fikrlari",
+"en": "Reviews"
+},
+"review_text": {
+"ru": "Текст отзыва клиента.",
+"uz": "Mijoz fikri matni.",
+"en": "Customer review text."
+},
+"review_cite": {
+"ru": "Имя клиента, район",
+"uz": "Mijoz ismi, tuman",
+"en": "Customer name, district"
+},
+"lead_h": {
+"ru": "Оставить заявку",
+"uz": "Ariza qoldirish",
+"en": "Leave a request"
+},
+"lead_p": {
+"ru": "Перезвоним в рабочее время и поможем выбрать модель.",
+"uz": "Ish vaqtida qoʻngʻiroq qilib, model tanlashda yordam beramiz.",
+"en": "We will call you back during business hours and help you choose a model."
+},
+"cat_title": {
+"ru": "Каталог тракторов",
+"uz": "Traktorlar katalogi",
+"en": "Tractor catalog"
+},
+"cat_desc": {
+"ru": "Каталог тракторов Chimgan: фильтры по марке, классу, мощности, цене и приводу.",
+"uz": "Chimgan traktorlari katalogi: marka, sinf, quvvat, narx va yuritma boʻyicha filtrlar.",
+"en": "Chimgan tractor catalog: filter by brand, class, power, price and drive."
+},
+"search": {
+"ru": "Поиск",
+"uz": "Qidiruv",
+"en": "Search"
+},
+"model_name": {
+"ru": "Название модели",
+"uz": "Model nomi",
+"en": "Model name"
+},
+"sort": {
+"ru": "Сортировка",
+"uz": "Saralash",
+"en": "Sort by"
+},
+"sort_default": {
+"ru": "По умолчанию",
+"uz": "Standart boʻyicha",
+"en": "Default"
+},
+"sort_p1": {
+"ru": "Сначала дешевле",
+"uz": "Avval arzonlari",
+"en": "Cheapest first"
+},
+"sort_p2": {
+"ru": "Сначала дороже",
+"uz": "Avval qimmatlari",
+"en": "Most expensive first"
+},
+"sort_w1": {
+"ru": "Мощность по возрастанию",
+"uz": "Quvvat oʻsish tartibida",
+"en": "Power, ascending"
+},
+"sort_w2": {
+"ru": "Мощность по убыванию",
+"uz": "Quvvat kamayish tartibida",
+"en": "Power, descending"
+},
+"show": {
+"ru": "Показать",
+"uz": "Koʻrsatish",
+"en": "Show"
+},
+"found": {
+"ru": "Найдено моделей:",
+"uz": "Topilgan modellar:",
+"en": "Models found:"
+},
+"nothing": {
+"ru": "Ничего не найдено. Измените фильтры.",
+"uz": "Hech narsa topilmadi. Filtrlarni oʻzgartiring.",
+"en": "Nothing found. Try changing the filters."
+},
+"price_specs": {
+"ru": ": цена и характеристики",
+"uz": ": narxi va xususiyatlari",
+"en": ": price and specifications"
+},
+"leave_req": {
+"ru": "Оставить заявку",
+"uz": "Ariza qoldirish",
+"en": "Leave a request"
+},
+"calc_inst": {
+"ru": "Рассчитать рассрочку",
+"uz": "Muddatli toʻlovni hisoblash",
+"en": "Calculate installment"
+},
+"descr_h": {
+"ru": "Описание",
+"uz": "Tavsif",
+"en": "Description"
+},
+"equip_h": {
+"ru": "Навесное оборудование",
+"uz": "Osma uskunalar",
+"en": "Attachments"
+},
+"req_for": {
+"ru": "Заявка на модель {0}",
+"uz": "{0} modeliga ariza",
+"en": "Request for model {0}"
+},
+"similar": {
+"ru": "Похожие модели",
+"uz": "Oʻxshash modellar",
+"en": "Similar models"
+},
+"default_descr": {
+"ru": "Трактор {0} {1}, {2} л.с., привод {3}. В наличии.",
+"uz": "{0} {1} traktori, {2} ot kuchi, yuritma {3}. Mavjud.",
+"en": "{0} {1} tractor, {2} hp, {3} drive. In stock."
+},
+"inst_title": {
+"ru": "Рассрочка и лизинг",
+"uz": "Muddatli toʻlov va lizing",
+"en": "Installments and leasing"
+},
+"inst_desc": {
+"ru": "Рассрочка на трактор: первый взнос от {0}%, срок от 1 до {1} месяцев. Калькулятор ежемесячного платежа.",
+"uz": "Traktorga muddatli toʻlov: boshlangʻich toʻlov {0}% dan, muddat 1 oydan {1} oygacha. Oylik toʻlov kalkulyatori.",
+"en": "Tractor installments: down payment from {0}%, term from 1 to {1} months. Monthly payment calculator."
+},
+"inst_h1": {
+"ru": "Рассрочка",
+"uz": "Muddatli toʻlov",
+"en": "Installments"
+},
+"inst_p1": {
+"ru": "Первый взнос — от {0}%. Остаток делим на равные ежемесячные платежи на срок от 1 до {1} месяцев.",
+"uz": "Boshlangʻich toʻlov — {0}% dan. Qolgan summa 1 oydan {1} oygacha teng oylik toʻlovlarga boʻlinadi.",
+"en": "The down payment is from {0}%. The remainder is split into equal monthly payments over 1 to {1} months."
+},
+"inst_p2_free": {
+"ru": "Рассрочка без процентов: ставка {0}% годовых, переплаты нет. Точные условия подтверждает менеджер.",
+"uz": "Foizsiz muddatli toʻlov: yillik stavka {0}%, ortiqcha toʻlov yoʻq. Aniq shartlarni menejer tasdiqlaydi.",
+"en": "Interest-free installments: {0}% annual rate, no overpayment. A manager will confirm the exact terms."
+},
+"inst_p2_rate": {
+"ru": "Ставка в расчёте — {0}% годовых. Точные условия подтверждает менеджер.",
+"uz": "Hisob-kitobdagi stavka — yiliga {0}%. Aniq shartlarni menejer tasdiqlaydi.",
+"en": "The rate used in the calculation is {0}% per year. A manager will confirm the exact terms."
+},
+"how_h": {
+"ru": "Как оформить",
+"uz": "Qanday rasmiylashtiriladi",
+"en": "How to apply"
+},
+"step1": {
+"ru": "Выберите модель и рассчитайте платёж.",
+"uz": "Modelni tanlang va toʻlovni hisoblang.",
+"en": "Choose a model and calculate the payment."
+},
+"step2": {
+"ru": "Оставьте заявку, менеджер свяжется с вами.",
+"uz": "Ariza qoldiring, menejer siz bilan bogʻlanadi.",
+"en": "Leave a request and a manager will contact you."
+},
+"step3": {
+"ru": "Подпишите договор и внесите первый взнос.",
+"uz": "Shartnomani imzolang va boshlangʻich toʻlovni toʻlang.",
+"en": "Sign the contract and pay the down payment."
+},
+"step4": {
+"ru": "Получите технику.",
+"uz": "Texnikani qabul qilib oling.",
+"en": "Receive your equipment."
+},
+"model": {
+"ru": "Модель",
+"uz": "Model",
+"en": "Model"
+},
+"down_pay": {
+"ru": "Первый взнос:",
+"uz": "Boshlangʻich toʻlov:",
+"en": "Down payment:"
+},
+"term": {
+"ru": "Срок",
+"uz": "Muddat",
+"en": "Term"
+},
+"mo": {
+"ru": "{0} мес.",
+"uz": "{0} oy",
+"en": "{0} mo."
+},
+"rate_label": {
+"ru": "Ставка, % годовых",
+"uz": "Yillik stavka, %",
+"en": "Annual rate, %"
+},
+"monthly": {
+"ru": "Ежемесячный платёж",
+"uz": "Oylik toʻlov",
+"en": "Monthly payment"
+},
+"overpay": {
+"ru": "Переплата",
+"uz": "Ortiqcha toʻlov",
+"en": "Overpayment"
+},
+"total": {
+"ru": "Итоговая сумма",
+"uz": "Yakuniy summa",
+"en": "Total amount"
+},
+"faq_h": {
+"ru": "Вопросы и ответы",
+"uz": "Savol-javoblar",
+"en": "Questions and answers"
+},
+"q1": {
+"ru": "Какой первый взнос?",
+"uz": "Boshlangʻich toʻlov qancha?",
+"en": "What is the down payment?"
+},
+"a1": {
+"ru": "От {0}% стоимости трактора.",
+"uz": "Traktor qiymatining {0}% idan boshlab.",
+"en": "From {0}% of the tractor’s price."
+},
+"q2": {
+"ru": "На какой срок оформляется рассрочка?",
+"uz": "Muddatli toʻlov qancha muddatga rasmiylashtiriladi?",
+"en": "What is the installment term?"
+},
+"a2": {
+"ru": "От 1 до {0} месяцев.",
+"uz": "1 oydan {0} oygacha.",
+"en": "From 1 to {0} months."
+},
+"q3": {
+"ru": "Какие документы нужны?",
+"uz": "Qanday hujjatlar kerak?",
+"en": "Which documents are required?"
+},
+"a3": {
+"ru": "Перечень назовёт менеджер при оформлении заявки.",
+"uz": "Hujjatlar roʻyxatini ariza rasmiylashtirilganda menejer aytib beradi.",
+"en": "The manager will give you the list when you submit a request."
+},
+"q4": {
+"ru": "Как узнать точный платёж?",
+"uz": "Aniq oylik toʻlovni qanday bilib olish mumkin?",
+"en": "How do I find out the exact payment?"
+},
+"a4": {
+"ru": "Калькулятор даёт расчёт. Окончательные условия подтверждает менеджер.",
+"uz": "Kalkulyator hisob-kitob beradi. Yakuniy shartlarni menejer tasdiqlaydi.",
+"en": "The calculator gives an estimate. A manager confirms the final terms."
+},
+"about_h1": {
+"ru": "О компании",
+"uz": "Kompaniya haqida",
+"en": "About us"
+},
+"about_desc": {
+"ru": "Chimgan: продажа тракторов в Узбекистане, склад, гарантия и сервис.",
+"uz": "Chimgan: Oʻzbekistonda traktorlar savdosi, ombor, kafolat va servis.",
+"en": "Chimgan: tractor sales in Uzbekistan, warehouse, warranty and service."
+},
+"about_p": {
+"ru": "Chimgan продаёт тракторы и навесное оборудование в Узбекистане. Помогаем подобрать технику под задачи хозяйства и купить её в рассрочку.",
+"uz": "Chimgan Oʻzbekistonda traktorlar va osma uskunalar sotadi. Xoʻjalik vazifalariga mos texnikani tanlashga va uni muddatli toʻlovga sotib olishga yordam beramiz.",
+"en": "Chimgan sells tractors and attachments in Uzbekistan. We help you choose equipment for your farm and buy it on installment."
+},
+"history": {
+"ru": "История",
+"uz": "Tarix",
+"en": "History"
+},
+"history_p": {
+"ru": "Здесь расскажите, когда компания начала работу и какую технику поставляет.",
+"uz": "Bu yerda kompaniya qachon ish boshlagani va qanday texnika yetkazib berishini yozing.",
+"en": "Tell here when the company started and what equipment it supplies."
+},
+"team": {
+"ru": "Команда",
+"uz": "Jamoa",
+"en": "Team"
+},
+"full_name": {
+"ru": "Имя Фамилия",
+"uz": "Ism Familiya",
+"en": "Full name"
+},
+"position": {
+"ru": "Должность",
+"uz": "Lavozim",
+"en": "Position"
+},
+"wh_h": {
+"ru": "Склад",
+"uz": "Ombor",
+"en": "Warehouse"
+},
+"wh_p": {
+"ru": "Техника хранится на складе компании. Наличие и сроки поставки подтверждает менеджер.",
+"uz": "Texnika kompaniya omborida saqlanadi. Mavjudligi va yetkazib berish muddatlarini menejer tasdiqlaydi.",
+"en": "Equipment is stored in the company warehouse. A manager confirms availability and delivery times."
+},
+"wr_h": {
+"ru": "Гарантии",
+"uz": "Kafolatlar",
+"en": "Warranties"
+},
+"wr_p": {
+"ru": "На технику действует гарантия. Условия и срок указываются в договоре.",
+"uz": "Texnikaga kafolat beriladi. Shartlar va muddat shartnomada koʻrsatiladi.",
+"en": "The equipment is covered by a warranty. Terms and duration are specified in the contract."
+},
+"sv_h": {
+"ru": "Сервис",
+"uz": "Servis",
+"en": "Service"
+},
+"sv_p": {
+"ru": "Помогаем с обслуживанием после покупки.",
+"uz": "Xariddan keyin texnik xizmat koʻrsatishda yordam beramiz.",
+"en": "We help with maintenance after your purchase."
+},
+"contacts_desc": {
+"ru": "Chimgan: телефон {0}, {1}, {2}. {3}.",
+"uz": "Chimgan: telefon {0}, {1}, {2}. {3}.",
+"en": "Chimgan: phone {0}, {1}, {2}. {3}."
+},
+"c_mail": {
+"ru": "Почта",
+"uz": "Elektron pochta",
+"en": "Email"
+},
+"c_addr": {
+"ru": "Адрес",
+"uz": "Manzil",
+"en": "Address"
+},
+"c_hours": {
+"ru": "График",
+"uz": "Ish vaqti",
+"en": "Hours"
+},
+"map": {
+"ru": "Карта",
+"uz": "Xarita",
+"en": "Map"
+},
+"write_us": {
+"ru": "Напишите нам",
+"uz": "Bizga yozing",
+"en": "Write to us"
+},
+"write_p": {
+"ru": "Ответим в рабочее время.",
+"uz": "Ish vaqtida javob beramiz.",
+"en": "We will reply during business hours."
+},
+"nf": {
+"ru": "Страница не найдена",
+"uz": "Sahifa topilmadi",
+"en": "Page not found"
+},
+"to_home": {
+"ru": "На главную",
+"uz": "Bosh sahifaga",
+"en": "Back to home"
+},
+"demo_ok": {
+"ru": "Спасибо! Это демо: на рабочем сайте заявка уйдёт на почту и появится в админке.",
+"uz": "Rahmat! Bu demo: ishchi saytda ariza pochtaga yuboriladi va admin panelda paydo boʻladi.",
+"en": "Thank you! This is a demo: on the live site the request is sent by email and appears in the admin panel."
+},
+"map_here": {
+"ru": "Здесь будет карта",
+"uz": "Bu yerda xarita boʻladi",
+"en": "The map will be here"
+},
+"cls.Мини": {
+"ru": "Мини",
+"uz": "Mini",
+"en": "Mini"
+},
+"cls.Универсальный": {
+"ru": "Универсальный",
+"uz": "Universal",
+"en": "Universal"
+},
+"cls.Тяжёлый": {
+"ru": "Тяжёлый",
+"uz": "Ogʻir",
+"en": "Heavy"
+}
+}
